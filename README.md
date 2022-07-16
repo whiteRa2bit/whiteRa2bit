@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 💻 I’m a Machine Learning Engineer at [Replika](https://replika.ai/)
-- 🔬 I'm a Machine Learning Researcher at [CERN](http://cern.ch/)
-- 📱 I'm a Machine Learning Engineer at [Vidina](https://vidina.solutions/)
+- 💻 I was working as a Machine Learning Engineer at [Replika](https://replika.ai/)
+- 🔬 I was working as a Machine Learning Researcher at [CERN](http://cern.ch/)
 - 🧠 Previously I was working at Yandex ML Marines team
 - 🔭 I specialize in NLP and Distributed Systems
 - 💡 I’m looking forward to launch my own product
