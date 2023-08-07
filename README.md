@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💡 Entrepreneur in Residense at AWS & Antler
+- 💡 Built an AI Startup at AWS & Antler
 - 🧑‍🎓 Prev. CS @ Columbia University
 - 💻 I was working as a Machine Learning Engineer at [Replika](https://replika.ai/)
 - 🔬 I was working as a Machine Learning Researcher at [CERN](http://cern.ch/)
